@@ -1,1 +1,1 @@
-var yourArray=["one", 2, true, undefined, null];
+let yourArray=["one", 2, true, undefined, null];
